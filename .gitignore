@@ -1,0 +1,10 @@
+# ESP-IDF build output
+/build/
+
+# ESP-IDF managed/generated files
+/managed_components/
+/dependencies.lock
+/sdkconfig
+
+# Board manager generated component
+/components/gen_bmgr_codes/

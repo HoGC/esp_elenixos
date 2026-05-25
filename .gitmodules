@@ -1,0 +1,7 @@
+[submodule "components/elenixos/ElenixOS"]
+	path = components/elenixos/ElenixOS
+	url = https://github.com/ElenixOS/ElenixOS.git
+
+[submodule "components/lvgl"]
+	path = components/lvgl
+	url = https://github.com/lvgl/lvgl.git
