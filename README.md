@@ -36,6 +36,7 @@ Enter the ESP-IDF environment first:
 Then run the following commands in this directory:
 
 ```sh
+pip install esp-bmgr-assist
 idf.py bmgr -b esp32_s31_korvo1
 idf.py set-target esp32s31
 idf.py build

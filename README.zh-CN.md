@@ -36,6 +36,7 @@ ElenixOS 是一款开源的智能手表操作系统，基于 LVGL 构建图形�
 然后在本目录执行：
 
 ```sh
+pip install esp-bmgr-assist
 idf.py bmgr -b esp32_s31_korvo1
 idf.py set-target esp32s31
 idf.py build
